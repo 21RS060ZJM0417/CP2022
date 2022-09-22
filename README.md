@@ -5,5 +5,5 @@ This is README.
 
 ## Patr2
 1. monday
-2. tuesday
-3. wensday
+1. tuesday
+1. wensday
